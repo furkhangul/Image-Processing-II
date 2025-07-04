@@ -19,6 +19,7 @@ if bekle == 27: #27 tuşu klavyede esc tuşu anlamına gelir
 elif bekle == ord("a"):
     cv2.imwrite("resim" ,img)
 
+
 """
 imread: Görüntüyü okumak için kullanılır.
 imwrite: Bellekte bir görüntüyü diske yazdırır.
