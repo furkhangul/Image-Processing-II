@@ -11,6 +11,7 @@ plt.title("Orijinal Resim")
 plt.axis("off")
 
 
+
 #Resim Boyutu Öğrenmek için
 print("Boyut: ",img.shape)
 
